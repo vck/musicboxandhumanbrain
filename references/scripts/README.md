@@ -1,4 +1,4 @@
-# scripts
+# scripts & codes references
 
 some script references that related to this research
 
